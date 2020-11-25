@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Sun Apr 17 03:41:28 EDT 2016
+# Wed Nov 25 03:01:54 UTC 2020
 css/custom.css
 index.html
 Contents+in+Depth.html
@@ -22,3 +22,4 @@ js/jquery.collapse.js
 js/pamflet.js
 css/prettify.css
 js/prettify/prettify.js
+js/prettify/lang-scala.js
